@@ -17,9 +17,3 @@ A simple GUI calculator application built using C++ and the WinAPI. This calcula
 4. Press `=` to see the result.
 5. Press `C` to clear the input and start over.
 
-## Installation
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/simple-calculator.git
-   cd simple-calculator
